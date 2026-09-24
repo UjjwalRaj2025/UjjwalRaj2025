@@ -50,13 +50,12 @@ I'm a **B.Tech CSE student** passionate about building software, exploring AI/ML
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
 </p>
 
 ### ☁️ Cloud & Databases
@@ -111,7 +110,6 @@ My personal developer portfolio showcasing my projects, skills and development j
 
 ---
 
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -120,7 +118,6 @@ My personal developer portfolio showcasing my projects, skills and development j
     height="180"
     alt="Ujjwal's GitHub Stats"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
@@ -167,19 +164,15 @@ My personal developer portfolio showcasing my projects, skills and development j
 # ⭐ GitHub Highlights
 
 <p align="center">
-
-<a href="https://github.com/UjjwalRaj2025?tab=stars">
-<img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars"/>
-</a>
-
-<a href="https://github.com/UjjwalRaj2025?tab=followers">
-<img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/UjjwalRaj2025?tab=repositories">
-<img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/UjjwalRaj2025?tab=stars">
+    <img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars"/>
+  </a>
+  <a href="https://github.com/UjjwalRaj2025?tab=followers">
+    <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -193,3 +186,28 @@ My personal developer portfolio showcasing my projects, skills and development j
 🌐 Full-Stack Development
 ☁️ Cloud Technologies
 🚀 Building Real-World Projects
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjwalraj2025/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ujjwalraj2025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/UjjwalRaj2025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
+</p>
