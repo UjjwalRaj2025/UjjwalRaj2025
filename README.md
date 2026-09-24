@@ -127,26 +127,51 @@ My personal developer portfolio showcasing my projects, skills and development j
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/UjjwalRaj2025">
-    <img src="https://github-stats-alpha.vercel.app/api?username=UjjwalRaj2025&cc=0d1117&tc=70a5fd&ic=c9d1d9&bc=0d1117" alt="GitHub Stats"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjwalRaj2025&theme=tokyonight" width="100%" alt="Contribution Graph"/>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=UjjwalRaj2025&theme=react&background=0d1117&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Top Languages"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalRaj2025&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time"/>
+</p>
+
+---
+
+<!-- Contribution Activity Line Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/UjjwalRaj2025?tab=stars">
-    <img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=0d1117&color=70a5fd"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UjjwalRaj2025&theme=tokyo-night&hide_border=true&area=true&custom_title=Ujjwal%20Raj's%20Contribution%20Graph" width="100%" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+<!-- Streak -->
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=UjjwalRaj2025&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+---
+
+<!-- Highlights -->
+<h2 align="center">⭐ Highlights</h2>
+
+<p align="center">
+  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUjjwalRaj2025&query=%24.public_repos&style=for-the-badge&logo=github&label=Total%20Repos&labelColor=0d1117&color=70a5fd"/>
   </a>
   &nbsp;
-  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUjjwalRaj2025&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0d1117&color=70a5fd"/>
+  <a href="https://github.com/UjjwalRaj2025?tab=stars">
+    <img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=0d1117&color=70a5fd"/>
   </a>
   &nbsp;
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
