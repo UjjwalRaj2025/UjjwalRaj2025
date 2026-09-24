@@ -1,7 +1,7 @@
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Ujjwal%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=70a5fd&descAlignY=55&animation=fadeIn" alt="Header"/>
 
-
+<p align="center">
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
     <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&labelColor=0d1117&color=70a5fd" alt="Followers"/>
   </a>
@@ -138,10 +138,6 @@ My personal developer portfolio showcasing my projects, skills and development j
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalRaj2025&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time"/>
 </p>
-
----
-
-
 
 ---
 
