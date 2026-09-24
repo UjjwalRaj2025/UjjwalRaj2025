@@ -1,196 +1,146 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Raj</h1>
-
-<h3 align="center">
-  💻 Software Developer | 🤖 Machine Learning Enthusiast | 🚀 Builder
-</h3>
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Ujjwal%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=70a5fd&descAlignY=55&animation=fadeIn" alt="Header"/>
 
 <p align="center">
   <a href="https://github.com/UjjwalRaj2025">
-    <img src="https://komarev.com/ghpvc/?username=UjjwalRaj2025&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/💻_Code-Lover-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Code Lover"/>
   </a>
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
-    <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&labelColor=0d1117&color=70a5fd" alt="Followers"/>
   </a>
-  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  <a href="https://komarev.com/ghpvc/?username=UjjwalRaj2025">
+    <img src="https://komarev.com/ghpvc/?username=UjjwalRaj2025&color=70a5fd&style=for-the-badge&label=VISITORS" alt="Visitors"/>
   </a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Terminal-Style About Me -->
+```js
+// about_ujjwal.js
 
-I'm a **B.Tech CSE student** passionate about building software, exploring AI/ML, and solving real-world problems through technology.
+const ujjwal = {
+    education: "B.Tech CSE",
+    roles: ["Software Developer", "ML Enthusiast", "Full-Stack Builder"],
+    currentlyLearning: ["Cloud Technologies", "Advanced ML/AI", "System Design"],
+    askMeAbout: ["Web Dev", "Machine Learning", "DSA", "Open Source"],
+    funFact: "I debug code faster than I debug my life 😄",
+    motto: "Build. Break. Debug. Improve. Repeat."
+};
+```
 
-- 💻 Building **full-stack web applications**
-- 🤖 Exploring **Machine Learning & Artificial Intelligence**
-- 🧠 Practicing **DSA & problem solving**
-- ☁️ Exploring **Cloud & modern development tools**
-- 🚀 Building projects, participating in hackathons and continuously learning
-- 🎯 Goal: Become a strong **Software Engineer & AI/ML Developer**
+<br/>
 
-> **Build. Break. Debug. Improve. Repeat.**
+<!-- Tech Arsenal -->
+<h2 align="center">⚡ Tech Arsenal</h2>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
-</p>
-
-### ☁️ Cloud & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,mongodb,mysql" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🤖 Machine Learning
+**🧠 Languages**
 
-Machine Learning implementations, experiments and projects covering the fundamentals of ML.
-
-<a href="https://github.com/UjjwalRaj2025/Machine-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=Machine-Learning&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=python,javascript&perline=2" />
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%">
+**🌐 Frontend**
 
-### 🌐 Personal Portfolio
+<img src="https://skillicons.dev/icons?i=html,css,react&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,js&perline=2" />
 
-My personal developer portfolio showcasing my projects, skills and development journey.
+</td>
+<td align="center" width="25%">
 
-<a href="https://github.com/UjjwalRaj2025/personal-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=personal-portfolio&theme=tokyonight&hide_border=true" />
-</a>
+**⚙️ Backend & DB**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" />
+
+</td>
+<td align="center" width="25%">
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,vercel&perline=3" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<h3 align="center">🤖 AI / ML Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+</p>
+
+<br/>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/UjjwalRaj2025/Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=Machine-Learning&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/UjjwalRaj2025/personal-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=personal-portfolio&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/UjjwalRaj2025?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Repos-0d1117?style=for-the-badge&logo=github&logoColor=70a5fd" alt="All Repos"/>
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=UjjwalRaj2025&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-    alt="Ujjwal's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalRaj2025&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=react&bg_color=0d1117&hide_border=true&title_color=70a5fd&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Top Langs"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=UjjwalRaj2025&theme=react&background=0d1117&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="Streak"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+<!-- Currently Section -->
+<h2 align="center">📌 What I'm Up To</h2>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=UjjwalRaj2025&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://img.shields.io/badge/💻_Software_Development-0d1117?style=flat-square&logoColor=70a5fd" />
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning_&_AI-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_DSA_&_Problem_Solving-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐_Full--Stack_Development-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Technologies-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_Building_Real--World_Projects-0d1117?style=flat-square" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UjjwalRaj2025&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=UjjwalRaj2025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# ⭐ GitHub Highlights
-
-<p align="center">
-  <a href="https://github.com/UjjwalRaj2025?tab=stars">
-    <img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars"/>
-  </a>
-  <a href="https://github.com/UjjwalRaj2025?tab=followers">
-    <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# 📌 Currently
-
-```text
-💻 Software Development
-🤖 Machine Learning & AI
-🧠 Data Structures & Algorithms
-🌐 Full-Stack Development
-☁️ Cloud Technologies
-🚀 Building Real-World Projects
-```
-
----
-
-# 🤝 Connect With Me
+<!-- Connect -->
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwalraj2025/">
@@ -209,5 +159,8 @@ My personal developer portfolio showcasing my projects, skills and development j
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
 </p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=120&section=footer" alt="Footer"/>
