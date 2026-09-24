@@ -111,17 +111,20 @@ My personal developer portfolio showcasing my projects, skills and development j
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UjjwalRaj2025&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=UjjwalRaj2025&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
+    alt="Ujjwal's GitHub Stats"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
