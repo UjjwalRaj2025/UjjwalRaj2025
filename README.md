@@ -40,8 +40,8 @@ const ujjwal = {
 
 **🧠 Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=python,javascript&perline=2" />
+<img src="https://skillicons.dev/icons?i=c,java,python&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=javascript&perline=1" />
 
 </td>
 <td align="center" width="25%">
@@ -49,7 +49,7 @@ const ujjwal = {
 **🌐 Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,react&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,js&perline=2" />
+<img src="https://skillicons.dev/icons?i=js&perline=1" />
 
 </td>
 <td align="center" width="25%">
@@ -57,7 +57,7 @@ const ujjwal = {
 **⚙️ Backend & DB**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" />
+<img src="https://skillicons.dev/icons?i=firebase&perline=1" />
 
 </td>
 <td align="center" width="25%">
@@ -65,7 +65,7 @@ const ujjwal = {
 **🛠️ Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=figma,postman,vercel&perline=3" />
+<img src="https://skillicons.dev/icons?i=figma,vercel&perline=2" />
 
 </td>
 </tr>
@@ -76,11 +76,7 @@ const ujjwal = {
 <h3 align="center">🤖 AI / ML Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <br/>
