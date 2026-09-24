@@ -2,9 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Ujjwal%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=70a5fd&descAlignY=55&animation=fadeIn" alt="Header"/>
 
 <p align="center">
-  <a href="https://github.com/UjjwalRaj2025">
-    <img src="https://img.shields.io/badge/💻_Code-Lover-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Code Lover"/>
-  </a>
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
     <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&labelColor=0d1117&color=70a5fd" alt="Followers"/>
   </a>
