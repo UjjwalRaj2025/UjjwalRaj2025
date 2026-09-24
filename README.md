@@ -2,6 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Ujjwal%20Raj&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Builder&descSize=18&descColor=70a5fd&descAlignY=55&animation=fadeIn" alt="Header"/>
 
 <p align="center">
+  <a href="https://github.com/UjjwalRaj2025">
+    <img src="https://img.shields.io/badge/💻_Code-Lover-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Code Lover"/>
+  </a>
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
     <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&labelColor=0d1117&color=70a5fd" alt="Followers"/>
   </a>
@@ -87,15 +90,34 @@ const ujjwal = {
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/UjjwalRaj2025/Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=Machine-Learning&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/UjjwalRaj2025/personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UjjwalRaj2025&repo=personal-portfolio&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9" />
-  </a>
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 [Machine Learning](https://github.com/UjjwalRaj2025/Machine-Learning)
+ML implementations, experiments and projects covering the fundamentals of Machine Learning.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
+
+</td>
+<td width="50%">
+
+### 🌐 [Personal Portfolio](https://github.com/UjjwalRaj2025/personal-portfolio)
+My personal developer portfolio showcasing my projects, skills and development journey.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/UjjwalRaj2025?tab=repositories">
@@ -109,15 +131,31 @@ const ujjwal = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalRaj2025&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=70a5fd&title_color=70a5fd&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalRaj2025&layout=compact&langs_count=8&theme=react&bg_color=0d1117&hide_border=true&title_color=70a5fd&text_color=c9d1d9&cache_seconds=86400" height="180" alt="Top Langs"/>
+  <a href="https://github.com/UjjwalRaj2025">
+    <img src="https://github-stats-alpha.vercel.app/api?username=UjjwalRaj2025&cc=0d1117&tc=70a5fd&ic=c9d1d9&bc=0d1117" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=UjjwalRaj2025&theme=react&background=0d1117&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="Streak"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/UjjwalRaj2025?tab=stars">
+    <img src="https://img.shields.io/github/stars/UjjwalRaj2025?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=0d1117&color=70a5fd"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/UjjwalRaj2025?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUjjwalRaj2025&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0d1117&color=70a5fd"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/UjjwalRaj2025?tab=followers">
+    <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=70a5fd"/>
+  </a>
 </p>
 
 ---
@@ -155,9 +193,8 @@ const ujjwal = {
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">⭐ If you like my work, consider giving a star to my repos!</h3>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=120&section=footer" alt="Footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=100&section=footer" alt="Footer"/>
+</p>
