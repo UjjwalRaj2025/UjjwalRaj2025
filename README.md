@@ -144,6 +144,15 @@ My personal developer portfolio showcasing my projects, skills and development j
 
 ---
 
+<!-- 30-Day Contribution Activity -->
+<h2 align="center">📈 30-Day Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/activity-graph.svg" width="100%" alt="30-Day Contribution Activity Graph"/>
+</p>
+
+---
+
 <!-- Streak -->
 <h2 align="center">🔥 Contribution Streak</h2>
 

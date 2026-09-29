@@ -14,6 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -23,6 +28,12 @@ jobs:
           UTC_OFFSET: 5.50
           AUTO_PUSH: false
 
+      - name: Generate Daily Contribution Graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_activity_graph.py profile-summary-card-output/tokyonight/activity-graph.svg
+
       - name: Push to output branch
         run: |
           cd profile-summary-card-output || exit 0
@@ -31,5 +42,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b output
           git add -A
-          git commit -m "Generated profile summary cards"
+          git commit -m "Generated profile summary cards & daily activity graph"
           git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/UjjwalRaj2025/UjjwalRaj2025.git output
