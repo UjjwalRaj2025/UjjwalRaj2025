@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/UjjwalRaj2025">
-    <img src="https://img.shields.io/badge/💻_Code-Lover-70a5fd?style=for-the-badge&labelColor=0d1117" alt="Code Lover"/>
+    <img src="https://img.shields.io/badge/💻_Code-Lover-70a5fd?style=for-the-badge&labelColor=0d1117" alt=" Learner"/>
   </a>
   <a href="https://github.com/UjjwalRaj2025?tab=followers">
     <img src="https://img.shields.io/github/followers/UjjwalRaj2025?style=for-the-badge&logo=github&labelColor=0d1117&color=70a5fd" alt="Followers"/>
