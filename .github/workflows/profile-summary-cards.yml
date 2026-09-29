@@ -2,8 +2,8 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,3 +21,15 @@ jobs:
           USERNAME: UjjwalRaj2025
           BRANCH_NAME: output
           UTC_OFFSET: 5.50
+          AUTO_PUSH: false
+
+      - name: Push to output branch
+        run: |
+          cd profile-summary-card-output || exit 0
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add -A
+          git commit -m "Generated profile summary cards"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/UjjwalRaj2025/UjjwalRaj2025.git output
