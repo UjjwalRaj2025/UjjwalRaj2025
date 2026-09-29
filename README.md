@@ -123,29 +123,23 @@ My personal developer portfolio showcasing my projects, skills and development j
 
 ---
 
-<!--
-  GitHub Stats — uses Vercel API for now.
-  Once you enable Actions write permissions and re-run the workflow,
-  switch these URLs to:
-  https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/profile-summary-card-output/tokyonight/0-profile-details.svg
-  (and so on for 1, 2, 3, 4) for truly real-time data.
--->
+<!-- GitHub Stats — auto-updated every 6 hours via GitHub Actions -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjwalRaj2025&theme=tokyonight" width="100%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Repos Per Language"/>
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/1-repos-per-language.svg" height="180" alt="Repos Per Language"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/2-most-commit-language.svg" height="180" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjwalRaj2025&theme=tokyonight" height="180" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/3-stats.svg" height="180" alt="Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalRaj2025&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/UjjwalRaj2025/UjjwalRaj2025/output/tokyonight/4-productive-time.svg" height="180" alt="Productive Time"/>
 </p>
 
 ---
